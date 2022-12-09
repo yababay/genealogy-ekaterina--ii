@@ -15,6 +15,11 @@
         const lines = await Promise.all(dotFiles.map(loadSingle))
             .then(arr => arr.join('\n'))        
         const data = parseDOTNetwork(lines)
+        data.nodes.forEach(node => {
+            const {id} = node
+            if(links[id]) return
+            node.color = 'red' 
+        });
         const network = new Network(container, data, options)
         network.on("click", ctx => {
             const { nodes } = ctx

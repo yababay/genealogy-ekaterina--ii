@@ -13,13 +13,13 @@
   MT[label="Михаил Тверской" group="Ростислав"]
   YIII -> MT
 
-  ALX[label="Александр" group="Ростислав"]
+  ALX[label="Александр Михайлович" group="Ростислав"]
   MT -> ALX
 
-  UL[label="Ульяна" group="Ростислав"]
+  UL[label="Иулиания Тверская" group="Ростислав"]
   ALX -> UL
 
-  ALA[label="Александра" group="Ростислав"]
+  ALA[label="Александра Ольгердовна" group="Ростислав"]
   UL -> ALA
 
   ALA -> MRY

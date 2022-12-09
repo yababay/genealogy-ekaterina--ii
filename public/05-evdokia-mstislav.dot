@@ -1,7 +1,7 @@
-  EV[label="Евдокия" group="Евдокия"]
+  EV[label="Евдокия Изяславна" group="Евдокия"]
   IZ -> EV
 
-  BP[label="Богуслав Поморский" group="Евдокия"]
+  BP[label="Анастасия Великопольская" group="Евдокия"]
   EV -> BP
 
   BGII[label="Богуслав II" group="Евдокия"]
@@ -46,10 +46,10 @@
   ZMIII[label="Земовий III" group="Мстислав"]
   MR -> ZMIII
 
-  ZMIV[label="Земовий IV" group="Мстислав"]
+  ZMIV[label="Земовит IV" group="Мстислав"]
   ZMIII -> ZMIV
 
-  MRY[label="Мария"]
+  MRY[label="Мария Мазовецкая"]
   ZMIV -> MRY
 
   SOFP[label="София"]

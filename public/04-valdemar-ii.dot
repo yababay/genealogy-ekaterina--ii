@@ -4,8 +4,8 @@
   AB[label="Абель"]
   VII -> AB
 
-  SF[label="Софья" group="Софья"]
-  VLD[label="Вальдемар" group="Вальдемар"]
+  SF[label="София фон Винценбург" group="Софья" title="Sophie (born 1240, d. aft. 1284)"]
+  VLD[label="Вальдемар III" group="Вальдемар"]
   AB -> VLD
   AB -> SF
 
@@ -15,10 +15,10 @@
   BRGIII[label="Бернгард III" group="Софья"]
   BRGII -> BRGIII
 
-  KTR[label="Катарина" group="Софья"]
+  KTR[label="Екатерина Ангальт-Бернбургская" group="Софья"]
   BRGIII -> KTR
 
-  ELZ[label="Елизабет" group="Софья"]
+  ELZ[label="Екатерина Елизавета" group="Софья"]
   KTR -> ELZ
 
   ING[label="Ингеборг" group="Вальдемар"]
@@ -27,10 +27,10 @@
   GRHIV[label="Герхард IV" group="Вальдемар"]
   ING -> GRHIV
 
-  KND[label="Кондрат" group="Вальдемар"]
+  KND[label="Ингеборга Брауншвейгская" group="Вальдемар"]
   GRHIV -> KND
 
-  HRNIV[label="Кристиан IV" group="Вальдемар"]
+  HRNIV[label="Кристиан V" group="Вальдемар"]
   KND -> HRNIV
 
   DTI[label="Дитрих I" group="Вальдемар"]
@@ -48,10 +48,10 @@
   GHIII[label="Герхард III" group="Кристофер I"]
   NIK -> GHIII
 
-  GNII[label="Генрих II" group="Кристофер I"]
+  GNII[label="Генрих II Железный" group="Кристофер I"]
   GHIII -> GNII
 
-  GHIV[label="Герхард IV" group="Кристофер I"]
+  GHIV[label="Герхард VI" group="Кристофер I"]
   GNII -> GHIV
 
   GVG[label="Гельвига"]
@@ -62,12 +62,12 @@
   DTI -> KRNI
   GVG -> KRNI
 
-  FRIII[label="Фридрих III"]
+  FRIII[label="Фридрих I"]
   KRNI -> FRIII
 
-  HRNIII[label="Христиан III"]
+  HRNIII[label="Кристиан III"]
   FRIII -> HRNIII
 
-  FRII[label="Фридрих II"]
+  FRII[label="Фредерик II"]
   HRNIII -> FRII
 

@@ -1,7 +1,7 @@
   SOFSH[label="Софья"]
   SOFP -> SOFSH
 
-  ALB[label="Альбрехт"]
+  ALB[label="Альбрехт VII"]
   SOFSH -> ALB
 
   UIII[label="Ульрих III"]
@@ -21,7 +21,7 @@
   IGVI -> IGL
   SAVG -> IGL
 
-  HA[label="Христиан Август"]
+  HA[label="Кристиан Август"]
   IGL -> HA
   
   SAF[label="София Августа Фредерика"]
