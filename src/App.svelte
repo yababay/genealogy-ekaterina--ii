@@ -1,5 +1,5 @@
 <script lang="ts">
-  import Hello from './lib/Hello.svelte'
+  import Genealogy from './lib/Genealogy.svelte'
 </script>
 
-  <Hello />
+  <Genealogy />

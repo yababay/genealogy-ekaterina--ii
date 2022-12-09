@@ -1,6 +1,6 @@
 :root {
     --header-height: 4rem;
-    --footer-height: 4rem;
+    --footer-height: calc(2rem + 1px);
     --body-min-height: 100vh;
     --main-min-height: calc(var(--body-min-height) - var(--header-height) - var(--footer-height));
 }
@@ -21,6 +21,9 @@ header {
 }
 
 footer {
+    box-sizing: border-box;
     height: var(--footer-height);
-    line-height: var(--footer-height);
+    line-height: calc(var(--footer-height) - 1px);
+    font-size: smaller;
+    border-top: 1px solid lightgray;
 }

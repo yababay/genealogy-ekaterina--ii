@@ -2,14 +2,18 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <link rel="icon" type="image/svg+xml" href="/img/logo.svg" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/svg+xml" href="img/logo.svg" />
     <script type="module" src="/src/main.ts" defer></script>
-    <title>Vite + Svelte + TS + Tailwind</title>
+    <title>Родословная Софии Августы Фредерики Ангальт-Цербской по отцовской линии</title>
   </head>
   <body>
-    <header>header</header>
-    <main></main>
-    <footer class="text-center">&copy;&nbsp;2022, Михаил Беляков</footer>
+    <header class="flex items-center justify-around text-xl">&nbsp;</header>
+    <main class="flex items-center flex-col h-10"></main>
+    <footer class="text-center">&copy;&nbsp;<span id="year"></span>, Михаил Беляков</footer>
   </body>
-</html>
+  <script>
+    document.querySelector('header').textContent = document.title
+    document.querySelector('#year').textContent = new Date().getFullYear()
+  </script>
+  </html>
