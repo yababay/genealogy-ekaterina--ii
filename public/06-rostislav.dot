@@ -1,0 +1,25 @@
+  MH[label="Мстислав Храбрый" group="Ростислав"]
+  RS -> MH
+
+  MU[label="Мстислав Удалой" group="Ростислав"]
+  MH -> MU
+
+  FD[label="Федосья" group="Ростислав"]
+  MU -> FD
+
+  YIII[label="Ярослав III" group="Ростислав"]
+  FD -> YIII
+
+  MT[label="Михаил Тверской" group="Ростислав"]
+  YIII -> MT
+
+  ALX[label="Александр" group="Ростислав"]
+  MT -> ALX
+
+  UL[label="Ульяна" group="Ростислав"]
+  ALX -> UL
+
+  ALA[label="Александра" group="Ростислав"]
+  UL -> ALA
+
+  ALA -> MRY

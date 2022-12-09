@@ -1,0 +1,124 @@
+{
+    "links": {
+        "MV": null,
+        "IK": null,
+        "IZ": null,
+        "RS": null,
+        "VI": null,
+        "RHZ": null,
+        "IBM": null,
+        "KZ": null,
+        "AI": null,
+        "AII": null,
+        "IOII": null,
+        "ZGI": null,
+        "ER": null,
+        "IGII": null,
+        "IE": null,
+        "RD": null,
+        "IGVI": null,
+        "VII": null,
+        "AB": null,
+        "SF": null,
+        "VLD": null,
+        "BRGII": null,
+        "BRGIII": null,
+        "KTR": null,
+        "ELZ": null,
+        "ING": null,
+        "GRHIV": null,
+        "KND": null,
+        "HRNIV": null,
+        "DTI": null,
+        "KRFI": null,
+        "ERV": null,
+        "NIK": null,
+        "GHIII": null,
+        "GNII": null,
+        "GHIV": null,
+        "GVG": null,
+        "KRNI": null,
+        "FRIII": null,
+        "HRNIII": null,
+        "FRII": null,
+        "EV": null,
+        "BP": null,
+        "BGII": null,
+        "BRI": null,
+        "BGIV": null,
+        "VSIV": null,
+        "BGV": null,
+        "BGVIII": null,
+        "BGIX": null,
+        "MS": null,
+        "RM": null,
+        "DNG": null,
+        "LV": null,
+        "YUR": null,
+        "MR": null,
+        "ZMIII": null,
+        "ZMIV": null,
+        "MRY": null,
+        "SOFP": null,
+        "MH": null,
+        "MU": null,
+        "FD": null,
+        "YIII": null,
+        "MT": null,
+        "ALX": null,
+        "UL": null,
+        "ALA": null,
+        "SOFSH": null,
+        "ALB": null,
+        "UIII": null,
+        "SOF": null,
+        "AVG": null,
+        "SAVG": null,
+        "IGL": null,
+        "HA": null,
+        "SAF": null
+    },
+    "dotFiles": [
+        "01-header",
+        "02-mstislav-velikiy",
+        "03-riheza",
+        "04-valdemar-ii",
+        "05-evdokia-mstislav",
+        "06-rostislav",
+        "07-footer"
+    ],
+
+    "options": {
+        "locale": "ru",
+        "layout": {
+            "hierarchical": {
+                "enabled": true,
+                "sortMethod": "directed",
+                "shakeTowards": "leaves"
+            }
+        },
+        "groups": {
+            "Ростислав": {
+                "color": {"background": "lightblue"}
+            },
+            "Мстислав": {
+                "color": {"background": "lightseagreen"}
+            },
+            "Софья": {
+                "color": {"background": "lemonchiffon"}
+            },
+            "Вальдемар": {
+                "color": {"background": "lavenderblush"}
+            },
+            "Эрик X": {
+                "color": {"background": "lightseagreen"}
+            },
+            "Евдокия Мешко": {
+                "color": {"background": "lightcoral"}
+            },
+            "Кристофер I": {
+                "color": {"background": "lightgrey"}
+            }
+        }
+    }
+}

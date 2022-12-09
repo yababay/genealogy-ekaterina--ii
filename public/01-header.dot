@@ -1,0 +1,3 @@
+digraph {
+  node [shape=rect fontsize=16]
+  edge [length=100, color=gray, fontcolor=black]

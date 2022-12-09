@@ -1,0 +1,11 @@
+  MV[label="Мстислав Великий"]
+  IK[label="Ингеборг Кнут"]
+  IZ[label="Изяслав"]
+  RS[label="Ростислав" group="Ростислав"]
+  VI[label="Вальдемар I"]
+
+  MV -> IK
+  MV -> IZ
+  MV -> RS
+
+  IK -> VI

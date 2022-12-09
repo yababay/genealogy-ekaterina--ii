@@ -1,48 +1,29 @@
 <script lang="ts">
     import { onMount } from "svelte"
     import { Network, parseDOTNetwork } from "vis-network/standalone/umd/vis-network.min"
+    import { options, dotFiles } from './settints.json'
+
     let container: HTMLElement
 
-    onMount(async () => {
-        const res = await fetch("index.dot")
+    async function loadSingle(fn){
+        const res = await fetch(`${fn}.dot`)
         if(!res.ok) throw new Error("Не удалось загрузить сведения о генеологии.")
-        const text = await res.text()
-        const data = parseDOTNetwork(text)
-        const options = {
-            locale: 'ru',
-            layout: {
-                hierarchical: {
-                    enabled: true,
-                    sortMethod: 'directed',
-                }
-            },
-            groups: {
-                "Ростислав": {
-                    color: {background:'lightblue'}
-                },
-                "Мстислав": {
-                    color: {background:'lightseagreen'}
-                },
-                "Софья": {
-                    color: {background:'lemonchiffon'}
-                },
-                "Вальдемар": {
-                    color: {background:'lavenderblush'}
-                },
-                "Эрик X": {
-                    color: {background:'lightseagreen'}
-                },
-                "Евдокия Мешко": {
-                    color: {background:'lightcoral'}
-                },
-                "Кристофер I": {
-                    color: {background:'lightgrey'}
-                }
-            }
-        }
-        Reflect.construct(Network, [container, data, options])
-        const canvas = container.querySelector('canvas')
-        //canvas.setAttribute('height', `${container.offsetHeight}`)
+        return (await res.text())
+    }
+
+    onMount(async () => {
+        const lines = await Promise.all(dotFiles.map(loadSingle))
+            .then(arr => arr.join('\n'))        
+        const data = parseDOTNetwork(lines)
+        console.log(data.nodes.map(({id}) => id))
+        const network = new Network(container, data, options)
+        network.on('click', ctx => {
+            const { nodes } = ctx
+            if(!nodes || nodes.length != 1) return
+            const [ node ] = nodes
+            console.log(typeof node)
+
+        })
     })
 </script>
 

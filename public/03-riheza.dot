@@ -1,0 +1,36 @@
+  RHZ[label="Рихеза" group="Рихеза"]
+  VI -> RHZ
+
+  IBM[label="Ингеборг Биргер Мангусен" group="Рихеза"]
+  RHZ -> IBM
+
+  KZ[label="Катарина Зигфрид" group="Рихеза"]
+  IBM -> KZ
+
+  AI[label="Альбрехт I" group="Рихеза"]
+  KZ -> AI
+
+  AII[label="Альбрехт II" group="Рихеза"]
+  AI -> AII
+
+  IOII[label="Иоанн II" group="Рихеза"]
+  AII -> IOII
+
+  ZGI[label="Зигмунд I" group="Рихеза"]
+  IOII -> ZGI
+
+  ER[label="Эрнст" group="Рихеза"]
+  ZGI -> ER
+
+  IGII[label="Иоган II" group="Рихеза"]
+  ER -> IGII
+
+  IE[label="Иоахим-Эрнст" group="Рихеза"]
+  IGII -> IE
+
+  RD[label="Рудольф" group="Рихеза"]
+  IE -> RD
+
+  IGVI[label="Иоган VI" group="Рихеза"]
+  RD -> IGVI
+  

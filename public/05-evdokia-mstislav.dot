@@ -1,0 +1,58 @@
+  EV[label="Евдокия" group="Евдокия"]
+  IZ -> EV
+
+  BP[label="Богуслав Поморский" group="Евдокия"]
+  EV -> BP
+
+  BGII[label="Богуслав II" group="Евдокия"]
+  BP -> BGII
+
+  BRI[label="Барним I" group="Евдокия"]
+  BGII -> BRI
+
+  BGIV[label="Богуслав IV" group="Евдокия"]
+  BRI -> BGIV
+
+  VSIV[label="Вартислав IV" group="Евдокия"]
+  BGIV -> VSIV
+
+  BGV[label="Богуслав V" group="Евдокия"]
+  VSIV -> BGV
+
+  BGVIII[label="Богуслав VIII" group="Евдокия"]
+  BGV -> BGVIII
+
+  BGIX[label="Богуслав IX" group="Евдокия"]
+  BGVIII -> BGIX
+
+  MS[label="Мстислав" group="Мстислав"]
+  IZ -> MS
+
+  RM[label="Роман" group="Мстислав"]
+  MS -> RM
+
+  DNG[label="Даниил Галицкий" group="Мстислав"]
+  RM -> DNG
+
+  LV[label="Лев" group="Мстислав"]
+  DNG -> LV
+
+  YUR[label="Юрий" group="Мстислав"]
+  LV -> YUR
+
+  MR[label="Мария" group="Мстислав"]
+  YUR -> MR
+
+  ZMIII[label="Земовий III" group="Мстислав"]
+  MR -> ZMIII
+
+  ZMIV[label="Земовий IV" group="Мстислав"]
+  ZMIII -> ZMIV
+
+  MRY[label="Мария"]
+  ZMIV -> MRY
+
+  SOFP[label="София"]
+  MRY -> SOFP
+  BGIX -> SOFP
+  
