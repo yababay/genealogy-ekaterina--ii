@@ -1,7 +1,7 @@
 <script lang="ts">
     import { onMount } from "svelte"
     import { Network, parseDOTNetwork } from "vis-network/standalone/umd/vis-network.min"
-    import { options, dotFiles, links } from './settints.json'
+    import { options, dotFiles, persons } from './settings.json'
 
     let container: HTMLElement
 
@@ -17,27 +17,34 @@
         const data = parseDOTNetwork(lines)
         data.nodes.forEach(node => {
             const {id} = node
-            if(links[id]) return
-            node.color = 'red' 
+            const person = persons[id]
+            const { weight } = person
+            const size = weight < 500 && 8 || weight < 1000 && 12 || weight < 5000 && 16 || weight < 10000 && 20 || weight < 50 && 24 || 28
+            node.font = {size}
         });
         const network = new Network(container, data, options)
         network.on("click", ctx => {
             const { nodes } = ctx
-            if(!nodes || nodes.length != 1) return
+            if(!nodes || nodes.length != 1){
+                // TODO: network.canvas.body.container.style.cursor = 'grabbing'
+                return
+            }
             const [ node ] = nodes
-            const link = links[node]
-            if(!link) return
-            window.open(link, "_blank")
-
+            const person = persons[node]
+            if(!person || !person.link) return
+            window.open(person.link, "_blank")
         })
 
         network.on("hoverNode", function (params) {
-           network.canvas.body.container.style.cursor = 'pointer';
+           network.canvas.body.container.style.cursor = 'pointer'
         });
 
         network.on("blurNode", function (params) {
-            network.canvas.body.container.style.cursor = 'default';
+            network.canvas.body.container.style.cursor = 'grabbing'
         });
+
+        network.focus('MS', {scale: 1})
+        network.canvas.body.container.style.cursor = 'grabbing'
     })
 </script>
 

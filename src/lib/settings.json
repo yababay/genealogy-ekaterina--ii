@@ -1,0 +1,131 @@
+{
+    "persons": {
+        "MV": {"weight": 8324, "link": "https://ru.wikipedia.org/wiki/%D0%9C%D1%81%D1%82%D0%B8%D1%81%D0%BB%D0%B0%D0%B2_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B8%D1%87_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B8%D0%B9"},
+        "IK": {"weight": 1949, "link": "https://ru.wikipedia.org/wiki/%D0%98%D0%BD%D0%B3%D0%B5%D0%B1%D0%BE%D1%80%D0%B3%D0%B0_%D0%9A%D0%B8%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F"},
+        "IZ": {"weight": 7130, "link": "https://ru.wikipedia.org/wiki/%D0%98%D0%B7%D1%8F%D1%81%D0%BB%D0%B0%D0%B2_%D0%9C%D1%81%D1%82%D0%B8%D1%81%D0%BB%D0%B0%D0%B2%D0%B8%D1%87"},
+        "RS": {"weight": 7883, "link": "https://ru.wikipedia.org/wiki/%D0%A0%D0%BE%D1%81%D1%82%D0%B8%D1%81%D0%BB%D0%B0%D0%B2_%D0%9C%D1%81%D1%82%D0%B8%D1%81%D0%BB%D0%B0%D0%B2%D0%B8%D1%87"},
+        "VI": {"weight": 4150, "link": "https://ru.wikipedia.org/wiki/%D0%92%D0%B0%D0%BB%D1%8C%D0%B4%D0%B5%D0%BC%D0%B0%D1%80_I_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B8%D0%B9"},
+        "RHZ": {"weight": 1273, "link": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B8%D1%85%D0%B5%D0%B7%D0%B0_%D0%94%D0%B0%D1%82%D1%81%D0%BA%D0%B0%D1%8F"},
+        "IBM": {"weight": 1183, "link": "https://ru.wikipedia.org/wiki/%D0%98%D0%BD%D0%B3%D0%B5%D0%B1%D0%BE%D1%80%D0%B3_%D0%AD%D1%80%D0%B8%D0%BA%D1%81%D0%B4%D0%BE%D1%82%D1%82%D0%B5%D1%80"},
+        "KZ": {"weight": 584, "link": "https://en.wikipedia.org/wiki/Catherine_Birgersdotter_of_Bjelbo"},
+        "AI": {"weight": 1824, "link": "https://en.wikipedia.org/wiki/Albert_I,_Prince_of_Anhalt-Zerbst"},
+        "AII": {"weight": 1703, "link": "https://en.wikipedia.org/wiki/Albert_II,_Prince_of_Anhalt-Zerbst"},
+        "IOII": {"weight": 885, "link": "https://en.wikipedia.org/wiki/John_II,_Prince_of_Anhalt-Zerbst"},
+        "ZGI": {"weight": 1016, "link": "https://en.wikipedia.org/wiki/Sigismund_I,_Prince_of_Anhalt-Dessau"},
+        "ER": {"weight": 1232, "link": "https://ru.wikipedia.org/wiki/%D0%AD%D1%80%D0%BD%D1%81%D1%82_(%D0%BA%D0%BD%D1%8F%D0%B7%D1%8C_%D0%90%D0%BD%D0%B3%D0%B0%D0%BB%D1%8C%D1%82%D0%B0)"},
+        "IGII": {"weight": 1978, "link": "https://ru.wikipedia.org/wiki/%D0%98%D0%BE%D0%B3%D0%B0%D0%BD%D0%BD_IV_(%D0%BA%D0%BD%D1%8F%D0%B7%D1%8C_%D0%90%D0%BD%D0%B3%D0%B0%D0%BB%D1%8C%D1%82-%D0%A6%D0%B5%D1%80%D0%B1%D1%81%D1%82%D0%B0)"},
+        "IE": {"weight": 1776, "link": "https://ru.wikipedia.org/wiki/%D0%98%D0%BE%D0%B0%D1%85%D0%B8%D0%BC_%D0%AD%D1%80%D0%BD%D1%81%D1%82_(%D0%BA%D0%BD%D1%8F%D0%B7%D1%8C_%D0%90%D0%BD%D0%B3%D0%B0%D0%BB%D1%8C%D1%82%D0%B0)"},
+        "RD": {"weight": 1924, "link": "https://ru.wikipedia.org/wiki/%D0%A0%D1%83%D0%B4%D0%BE%D0%BB%D1%8C%D1%84_(%D0%BA%D0%BD%D1%8F%D0%B7%D1%8C_%D0%90%D0%BD%D0%B3%D0%B0%D0%BB%D1%8C%D1%82-%D0%A6%D0%B5%D1%80%D0%B1%D1%81%D1%82%D0%B0)"},
+        "IGVI": {"weight": 1491, "link": "https://ru.wikipedia.org/wiki/%D0%98%D0%BE%D0%B3%D0%B0%D0%BD%D0%BD_VI_(%D0%BA%D0%BD%D1%8F%D0%B7%D1%8C_%D0%90%D0%BD%D0%B3%D0%B0%D0%BB%D1%8C%D1%82-%D0%A6%D0%B5%D1%80%D0%B1%D1%81%D1%82%D0%B0)"},
+        "VII": {"weight": 2494, "link": "https://ru.wikipedia.org/wiki/%D0%92%D0%B0%D0%BB%D1%8C%D0%B4%D0%B5%D0%BC%D0%B0%D1%80_II"},
+        "AB": {"weight": 1234, "link": "https://ru.wikipedia.org/wiki/%D0%90%D0%B1%D0%B5%D0%BB%D1%8C_(%D0%BA%D0%BE%D1%80%D0%BE%D0%BB%D1%8C_%D0%94%D0%B0%D0%BD%D0%B8%D0%B8)"},
+        "SF": {"weight": 643, "link": "https://en.wikipedia.org/wiki/Bernhard_I,_Prince_of_Anhalt-Bernburg"},
+        "VLD": {"weight": 744, "link": "https://ru.wikipedia.org/wiki/%D0%92%D0%B0%D0%BB%D1%8C%D0%B4%D0%B5%D0%BC%D0%B0%D1%80_III_(%D0%B3%D0%B5%D1%80%D1%86%D0%BE%D0%B3_%D0%A8%D0%BB%D0%B5%D0%B7%D0%B2%D0%B8%D0%B3%D0%B0)"},
+        "BRGII": {"weight": 1712, "link": "https://en.wikipedia.org/wiki/Bernhard_II,_Prince_of_Anhalt-Bernburg"},
+        "BRGIII": {"weight": 1787, "link": "https://en.wikipedia.org/wiki/Bernhard_III,_Prince_of_Anhalt-Bernburg"},
+        "KTR": {"weight": 1044, "link": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%B3%D0%BD%D1%83%D1%81_II_(%D0%B3%D0%B5%D1%80%D1%86%D0%BE%D0%B3_%D0%91%D1%80%D0%B0%D1%83%D0%BD%D1%88%D0%B2%D0%B5%D0%B9%D0%B3-%D0%92%D0%BE%D0%BB%D1%8C%D1%84%D0%B5%D0%BD%D0%B1%D1%8E%D1%82%D1%82%D0%B5%D0%BB%D1%8F)"},
+        "ELZ": {"weight": 3785, "link": "https://ru.wikipedia.org/wiki/%D0%95%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B0_%D0%95%D0%BB%D0%B8%D0%B7%D0%B0%D0%B2%D0%B5%D1%82%D0%B0_%D0%91%D1%80%D0%B0%D1%83%D0%BD%D1%88%D0%B2%D0%B5%D0%B9%D0%B3-%D0%9B%D1%8E%D0%BD%D0%B5%D0%B1%D1%83%D1%80%D0%B3%D1%81%D0%BA%D0%B0%D1%8F"},
+        "ING": {"weight": 320, "link": "https://en.wikipedia.org/wiki/Ingeborg_of_Sweden_(1263%E2%80%931292)"},
+        "GRHIV": {"weight": 500, "link": "https://ru.wikipedia.org/wiki/%D0%93%D0%B5%D1%80%D1%85%D0%B0%D1%80%D0%B4_IV_(%D0%93%D0%BE%D0%BB%D1%8C%D1%88%D1%82%D0%B5%D0%B9%D0%BD)"},
+        "KND": {"weight": 688, "link": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D1%80%D0%B0%D0%B4_I_(%D0%B3%D1%80%D0%B0%D1%84_%D0%9E%D0%BB%D1%8C%D0%B4%D0%B5%D0%BD%D0%B1%D1%83%D1%80%D0%B3%D0%B0)"},
+        "HRNIV": {"weight": 508, "link": "https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B8%D1%81%D1%82%D0%B8%D0%B0%D0%BD_V_(%D0%B3%D1%80%D0%B0%D1%84_%D0%9E%D0%BB%D1%8C%D0%B4%D0%B5%D0%BD%D0%B1%D1%83%D1%80%D0%B3%D0%B0)"},
+        "DTI": {"weight": 646, "link": "https://ru.wikipedia.org/wiki/%D0%94%D0%B8%D1%82%D1%80%D0%B8%D1%85_(%D0%B3%D1%80%D0%B0%D1%84_%D0%9E%D0%BB%D1%8C%D0%B4%D0%B5%D0%BD%D0%B1%D1%83%D1%80%D0%B3%D0%B0)"},
+        "KRFI": {"weight": 1589, "link": "https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B8%D1%81%D1%82%D0%BE%D1%84%D0%B5%D1%80_I"},
+        "ERV": {"weight": 3254, "link": "https://ru.wikipedia.org/wiki/%D0%AD%D1%80%D0%B8%D0%BA_V_(%D0%BA%D0%BE%D1%80%D0%BE%D0%BB%D1%8C_%D0%94%D0%B0%D0%BD%D0%B8%D0%B8)"},
+        "NIK": {"weight": 721, "link": "https://sv.wikipedia.org/wiki/Rikissa_Eriksdotter_av_Danmark"},
+        "GHIII": {"weight": 727, "link": "https://sv.wikipedia.org/wiki/Sofia_av_Mecklenburg-Werle"},
+        "GNII": {"weight": 787, "link": "https://ru.wikipedia.org/wiki/%D0%93%D0%B5%D0%BD%D1%80%D0%B8%D1%85_II_(%D0%B3%D1%80%D0%B0%D1%84_%D0%93%D0%BE%D0%BB%D1%8C%D1%88%D1%82%D0%B5%D0%B9%D0%BD-%D0%A0%D0%B5%D0%BD%D0%B4%D1%81%D0%B1%D1%83%D1%80%D0%B3%D0%B0)"},
+        "GHIV": {"weight": 1337, "link": "https://ru.wikipedia.org/wiki/%D0%93%D0%B5%D1%80%D1%85%D0%B0%D1%80%D0%B4_VI_(%D0%B3%D1%80%D0%B0%D1%84_%D0%93%D0%BE%D0%BB%D1%8C%D1%88%D1%82%D0%B5%D0%B9%D0%BD-%D0%A0%D0%B5%D0%BD%D0%B4%D1%81%D0%B1%D1%83%D1%80%D0%B3%D0%B0)"},
+        "GVG": {"weight": 841, "link": "https://ru.wikipedia.org/wiki/%D0%A5%D0%B5%D0%BB%D1%8C%D0%B2%D0%B8%D0%B3%D0%B0_%D0%A8%D0%B0%D1%83%D1%8D%D0%BD%D0%B1%D1%83%D1%80%D0%B3%D1%81%D0%BA%D0%B0%D1%8F"},
+        "KRNI": {"weight": 2193, "link": "https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B8%D1%81%D1%82%D0%B8%D0%B0%D0%BD_I"},
+        "FRIII": {"weight": 5108, "link": "https://ru.wikipedia.org/wiki/%D0%A4%D1%80%D0%B5%D0%B4%D0%B5%D1%80%D0%B8%D0%BA_I_(%D0%BA%D0%BE%D1%80%D0%BE%D0%BB%D1%8C_%D0%94%D0%B0%D0%BD%D0%B8%D0%B8)"},
+        "HRNIII": {"weight": 7996, "link": "https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B8%D1%81%D1%82%D0%B8%D0%B0%D0%BD_III_(%D0%BA%D0%BE%D1%80%D0%BE%D0%BB%D1%8C_%D0%94%D0%B0%D0%BD%D0%B8%D0%B8)"},
+        "FRII": {"weight": 4680, "link": "https://ru.wikipedia.org/wiki/%D0%A4%D1%80%D0%B5%D0%B4%D0%B5%D1%80%D0%B8%D0%BA_II_(%D0%BA%D0%BE%D1%80%D0%BE%D0%BB%D1%8C_%D0%94%D0%B0%D0%BD%D0%B8%D0%B8)"},
+        "EV": {"weight": 1749, "link": "https://ru.wikipedia.org/wiki/%D0%95%D0%B2%D0%B4%D0%BE%D0%BA%D0%B8%D1%8F_%D0%98%D0%B7%D1%8F%D1%81%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0"},
+        "BP": {"weight": 2548, "link": "https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D0%B0%D1%81%D1%82%D0%B0%D1%81%D0%B8%D1%8F_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%BF%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F"},
+        "BGII": {"weight": 2146, "link": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%B3%D1%83%D1%81%D0%BB%D0%B0%D0%B2_II"},
+        "BRI": {"weight": 4075, "link": "https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D1%80%D0%BD%D0%B8%D0%BC_I_%D0%94%D0%BE%D0%B1%D1%80%D1%8B%D0%B9"},
+        "BGIV": {"weight": 1231, "link": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%B3%D1%83%D1%81%D0%BB%D0%B0%D0%B2_IV"},
+        "VSIV": {"weight": 2082, "link": "https://ru.wikipedia.org/wiki/%D0%92%D0%B0%D1%80%D1%82%D0%B8%D1%81%D0%BB%D0%B0%D0%B2_IV"},
+        "BGV": {"weight": 4685, "link": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%B3%D1%83%D1%81%D0%BB%D0%B0%D0%B2_V_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B8%D0%B9"},
+        "BGVIII": {"weight": 5656, "link": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%B3%D1%83%D1%81%D0%BB%D0%B0%D0%B2_VIII"},
+        "BGIX": {"weight": 2960, "link": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%B3%D1%83%D1%81%D0%BB%D0%B0%D0%B2_IX"},
+        "MS": {"weight": 6267, "link": "https://ru.wikipedia.org/wiki/%D0%9C%D1%81%D1%82%D0%B8%D1%81%D0%BB%D0%B0%D0%B2_%D0%98%D0%B7%D1%8F%D1%81%D0%BB%D0%B0%D0%B2%D0%B8%D1%87"},
+        "RM": {"weight": 21717, "link": "https://ru.wikipedia.org/wiki/%D0%A0%D0%BE%D0%BC%D0%B0%D0%BD_%D0%9C%D1%81%D1%82%D0%B8%D1%81%D0%BB%D0%B0%D0%B2%D0%B8%D1%87"},
+        "DNG": {"weight": 32658, "link": "https://ru.wikipedia.org/wiki/%D0%94%D0%B0%D0%BD%D0%B8%D0%B8%D0%BB_%D0%A0%D0%BE%D0%BC%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87_%D0%93%D0%B0%D0%BB%D0%B8%D1%86%D0%BA%D0%B8%D0%B9"},
+        "LV": {"weight": 6777, "link": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B5%D0%B2_%D0%94%D0%B0%D0%BD%D0%B8%D0%BB%D0%BE%D0%B2%D0%B8%D1%87"},
+        "YUR": {"weight": 3071, "link": "https://ru.wikipedia.org/wiki/%D0%AE%D1%80%D0%B8%D0%B9_I_%D0%9B%D1%8C%D0%B2%D0%BE%D0%B2%D0%B8%D1%87"},
+        "MR": {"weight": 443, "link": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%80%D0%B8%D1%8F_%D0%AE%D1%80%D1%8C%D0%B5%D0%B2%D0%BD%D0%B0_%D0%93%D0%B0%D0%BB%D0%B8%D1%86%D0%BA%D0%B0%D1%8F"},
+        "ZMIII": {"weight": 2222, "link": "https://ru.wikipedia.org/wiki/%D0%97%D0%B5%D0%BC%D0%BE%D0%B2%D0%B8%D1%82_III"},
+        "ZMIV": {"weight": 1413, "link": "https://ru.wikipedia.org/wiki/%D0%97%D0%B5%D0%BC%D0%BE%D0%B2%D0%B8%D1%82_IV_%D0%9F%D0%BB%D0%BE%D1%86%D0%BA%D0%B8%D0%B9"},
+        "MRY": {"weight": 1091, "link": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%80%D0%B8%D1%8F_%D0%9C%D0%B0%D0%B7%D0%BE%D0%B2%D0%B5%D1%86%D0%BA%D0%B0%D1%8F"},
+        "SOFP": {"weight": 1633, "link": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D1%84%D0%B8%D1%8F_%D0%9F%D0%BE%D0%BC%D0%B5%D1%80%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_(%D0%B3%D0%B5%D1%80%D1%86%D0%BE%D0%B3%D0%B8%D0%BD%D1%8F_%D0%9F%D0%BE%D0%BC%D0%B5%D1%80%D0%B0%D0%BD%D0%B8%D0%B8)"},
+        "MH": {"weight": 1992, "link": "https://ru.wikipedia.org/wiki/%D0%9C%D1%81%D1%82%D0%B8%D1%81%D0%BB%D0%B0%D0%B2_%D0%A0%D0%BE%D1%81%D1%82%D0%B8%D1%81%D0%BB%D0%B0%D0%B2%D0%B8%D1%87_%D0%A5%D1%80%D0%B0%D0%B1%D1%80%D1%8B%D0%B9"},
+        "MU": {"weight": 16733, "link": "https://ru.wikipedia.org/wiki/%D0%9C%D1%81%D1%82%D0%B8%D1%81%D0%BB%D0%B0%D0%B2_%D0%9C%D1%81%D1%82%D0%B8%D1%81%D0%BB%D0%B0%D0%B2%D0%B8%D1%87_%D0%A3%D0%B4%D0%B0%D1%82%D0%BD%D1%8B%D0%B9"},
+        "FD": {"weight": 1087, "link": "https://ru.wikipedia.org/wiki/%D0%A4%D0%B5%D0%BE%D0%B4%D0%BE%D1%81%D0%B8%D1%8F_%D0%9C%D1%81%D1%82%D0%B8%D1%81%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0"},
+        "YII": {"weight": 17644, "link": "https://ru.wikipedia.org/wiki/%D0%AF%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2_%D0%92%D1%81%D0%B5%D0%B2%D0%BE%D0%BB%D0%BE%D0%B4%D0%BE%D0%B2%D0%B8%D1%87_(%D0%BA%D0%BD%D1%8F%D0%B7%D1%8C_%D0%B2%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D1%81%D0%BA%D0%B8%D0%B9)"},
+        "YIII": {"weight": 4260, "link": "https://ru.wikipedia.org/wiki/%D0%AF%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2_%D0%AF%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D0%B8%D1%87"},
+        "MT": {"weight": 6198, "link": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB_%D0%AF%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D0%B8%D1%87"},
+        "ALX": {"weight": 13072, "link": "https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D0%B8%D1%87_(%D0%BA%D0%BD%D1%8F%D0%B7%D1%8C_%D0%B2%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D1%81%D0%BA%D0%B8%D0%B9)"},
+        "UL": {"weight": 3711, "link": "https://ru.wikipedia.org/wiki/%D0%98%D1%83%D0%BB%D0%B8%D0%B0%D0%BD%D0%B8%D1%8F_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%BD%D0%B0"},
+        "ALA": {"weight": 1139, "link": "https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%B0_%D0%9E%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4%D0%BE%D0%B2%D0%BD%D0%B0"},
+        "SOFSH": {"weight": 1583, "link": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D1%84%D0%B8%D1%8F_%D0%9F%D0%BE%D0%BC%D0%B5%D1%80%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_(%D0%B3%D0%B5%D1%80%D1%86%D0%BE%D0%B3%D0%B8%D0%BD%D1%8F_%D0%9C%D0%B5%D0%BA%D0%BB%D0%B5%D0%BD%D0%B1%D1%83%D1%80%D0%B3%D1%81%D0%BA%D0%B0%D1%8F)"},
+        "ALB": {"weight": 1462, "link": "https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D1%8C%D0%B1%D1%80%D0%B5%D1%85%D1%82_VII_%D0%9C%D0%B5%D0%BA%D0%BB%D0%B5%D0%BD%D0%B1%D1%83%D1%80%D0%B3%D1%81%D0%BA%D0%B8%D0%B9"},
+        "UIII": {"weight": 5646, "link": "https://ru.wikipedia.org/wiki/%D0%A3%D0%BB%D1%8C%D1%80%D0%B8%D1%85_%D0%9C%D0%B5%D0%BA%D0%BB%D0%B5%D0%BD%D0%B1%D1%83%D1%80%D0%B3%D1%81%D0%BA%D0%B8%D0%B9"},
+        "SOF": {"weight": 3155, "link": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D1%84%D0%B8%D1%8F_%D0%9C%D0%B5%D0%BA%D0%BB%D0%B5%D0%BD%D0%B1%D1%83%D1%80%D0%B3-%D0%93%D1%8E%D1%81%D1%82%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F"},
+        "AVG": {"weight": 894, "link": "https://ru.wikipedia.org/wiki/%D0%90%D0%B2%D0%B3%D1%83%D1%81%D1%82%D0%B0_%D0%94%D0%B0%D1%82%D1%81%D0%BA%D0%B0%D1%8F"},
+        "SAVG": {"weight": 853, "link": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D1%84%D0%B8%D1%8F_%D0%90%D0%B2%D0%B3%D1%83%D1%81%D1%82%D0%B0_%D0%93%D0%BE%D0%BB%D1%8C%D1%88%D1%82%D0%B5%D0%B9%D0%BD-%D0%93%D0%BE%D1%82%D1%82%D0%BE%D1%80%D0%BF%D1%81%D0%BA%D0%B0%D1%8F"},
+        "IGL": {"weight": 1393, "link": "https://ru.wikipedia.org/wiki/%D0%98%D0%BE%D0%B3%D0%B0%D0%BD%D0%BD_%D0%9B%D1%8E%D0%B4%D0%B2%D0%B8%D0%B3_I_(%D0%BA%D0%BD%D1%8F%D0%B7%D1%8C_%D0%90%D0%BD%D0%B3%D0%B0%D0%BB%D1%8C%D1%82-%D0%94%D0%BE%D1%80%D0%BD%D0%B1%D1%83%D1%80%D0%B3%D0%B0)"},
+        "HA": {"weight": 2226, "link": "https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B8%D1%81%D1%82%D0%B8%D0%B0%D0%BD_%D0%90%D0%B2%D0%B3%D1%83%D1%81%D1%82_(%D0%BA%D0%BD%D1%8F%D0%B7%D1%8C_%D0%90%D0%BD%D0%B3%D0%B0%D0%BB%D1%8C%D1%82-%D0%A6%D0%B5%D1%80%D0%B1%D1%81%D1%82%D0%B0)"},
+        "SAF": {"weight": 118226, "link": "https://ru.wikipedia.org/wiki/%D0%95%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B0_II"}
+    },
+    "dotFiles": [
+        "01-header",
+        "02-mstislav-velikiy",
+        "03-riheza",
+        "04-valdemar-ii",
+        "05-evdokia-mstislav",
+        "06-rostislav",
+        "07-footer"
+    ],
+
+    "options": {
+        "locale": "ru",
+        "physics": {
+            "enabled": false
+          },
+        "interaction": {
+            "hover": true
+        },
+        "layout": {
+            "hierarchical": {
+                "enabled": true,
+                "sortMethod": "directed",
+                "shakeTowards": "leaves"
+            }
+        },
+        "groups": {
+            "Ростислав": {
+                "color": {"background": "lightblue"}
+            },
+            "Мстислав": {
+                "color": {"background": "lightseagreen"}
+            },
+            "Софья": {
+                "color": {"background": "lemonchiffon"}
+            },
+            "Вальдемар": {
+                "color": {"background": "lavenderblush"}
+            },
+            "Эрик X": {
+                "color": {"background": "lightseagreen"}
+            },
+            "Евдокия Мешко": {
+                "color": {"background": "lightcoral"}
+            },
+            "Кристофер I": {
+                "color": {"background": "lightgrey"}
+            }
+        }
+    }
+}
