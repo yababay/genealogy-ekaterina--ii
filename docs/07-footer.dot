@@ -1,0 +1,29 @@
+  SOFSH[label="Софья"]
+  SOFP -> SOFSH
+
+  ALB[label="Альбрехт VII"]
+  SOFSH -> ALB
+
+  UIII[label="Ульрих III"]
+  ALB -> UIII
+
+  SOF[label="София"]
+  UIII -> SOF
+
+  AVG[label="Августа"]
+  SOF -> AVG
+  FRII -> AVG
+
+  SAVG[label="София-Августа"]
+  AVG -> SAVG
+
+  IGL[label="Иоган Людвиг"]
+  IGVI -> IGL
+  SAVG -> IGL
+
+  HA[label="Кристиан Август"]
+  IGL -> HA
+  
+  SAF[label="София Августа Фредерика"]
+  HA -> SAF
+}

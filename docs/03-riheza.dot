@@ -1,0 +1,36 @@
+  RHZ[label="Рихеза" group="Рихеза"]
+  VI -> RHZ
+
+  IBM[label="Ингеборга Эриксдоттер" group="Рихеза"]
+  RHZ -> IBM
+
+  KZ[label="Катерина Биргерсдоттир" group="Рихеза" title="Выходила замуж предположительно несколько раз, одним из её мужей был Сигге Гуттормссон."]
+  IBM -> KZ
+
+  AI[label="Альбрехт I" group="Рихеза"]
+  KZ -> AI
+
+  AII[label="Альбрехт II" group="Рихеза"]
+  AI -> AII
+
+  IOII[label="Иоанн II" group="Рихеза"]
+  AII -> IOII
+
+  ZGI[label="Зигмунд I" group="Рихеза"]
+  IOII -> ZGI
+
+  ER[label="Эрнст" group="Рихеза" title="Умер после 22 октября 1405 г."]
+  ZGI -> ER
+
+  IGII[label="Иоган IV" group="Рихеза"]
+  ER -> IGII
+
+  IE[label="Иоахим-Эрнст" group="Рихеза"]
+  IGII -> IE
+
+  RD[label="Рудольф" group="Рихеза"]
+  IE -> RD
+
+  IGVI[label="Иоган VI" group="Рихеза"]
+  RD -> IGVI
+  
