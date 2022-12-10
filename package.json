@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "deploy": "rm -rf dist && rm -rf docs && npm run build && sed -i 's/.assets/assets/' dist/index.html && mv dist docs && git add . && git commit -am deploy",
+    "deploy": "rm -rf dist && rm -rf docs && npm run build && sed -i 's/.assets/assets/' dist/index.html && mv dist docs && git add . && git commit -am deploy && git push origin main",
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
